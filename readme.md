@@ -7,6 +7,6 @@
 ## 3 PUT
 ![PUT](SS/put.png)
 
-## 3 DELETE
+## 4 DELETE
 ![DELETE](SS/delete.png)
 
